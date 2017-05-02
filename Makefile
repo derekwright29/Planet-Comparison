@@ -1,3 +1,10 @@
+#ASEN 1969 Sample of Work Project
+#Derek Wright
+#Spring 2017
+#CU Boulder
+
+#Makefile to create executable file from planetcomp.c
+
 CC = gcc
 CFLAGS = -Wall -Wextra -std=c11 -pedantic -g
 
