@@ -1,3 +1,13 @@
+/*
+
+ASEN 1969 Sample of Work Project
+Derek Wright
+Spring 2017
+CU Boulder
+
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
