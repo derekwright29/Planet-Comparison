@@ -1,5 +1,8 @@
 # Planet-Comparison
 ASEN 1969 Sample of Work Project
+Derek Wright
+Spring 2017
+CU Boulder
 
 This program compares the major objects in the solar system with Earth by:
 
@@ -30,9 +33,11 @@ The objects that are included in this program are:
   Titan,
   Enceladus.
   
+To compile the program, simply call 'make' in your terminal and in the correct directory. This will create the executable file "planetcomp."
+
 An example call is like this:
-  ./planetcomp -d Ganymede OR
-  ./planetcomp -m Uranus.
+  ./planetcomp -d Ganymede 
+  ./planetcomp -m Uranus
   
 Calls like these will print a usage messge and/or Earth's statistics
   ./planetcomp OR
